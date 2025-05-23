@@ -1,4 +1,4 @@
 {
-    "testRepo": "sort-books-solution",
-    "pathToFile": "cypress/integration/tests/test.spec.js"
+  "testRepo": "sort-books-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
 }
